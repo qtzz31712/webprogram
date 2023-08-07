@@ -1,4 +1,0 @@
-http://webprogramming.co.kr/
-total: 7
-successed: 6
-failed: 1

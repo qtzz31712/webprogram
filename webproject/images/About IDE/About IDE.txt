@@ -1,4 +1,0 @@
-http://webprogramming.co.kr/about_ide
-total: 38
-successed: 37
-failed: 1
